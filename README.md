@@ -2,15 +2,15 @@ Hi there! 👋
 I'm Mohammad Shahbaaz.
 
 👀 Interests
-Game Development in Unreal Engine
+Game Development in Unreal Engine,
 Coding in Frontend
 🌱 Currently Learning
-Blockchain
+Blockchain,
 Full-stack Development
 🧠 Skills
-JavaScript
-React
-Python
+JavaScript,
+React,
+Python,
 Basic AI/ML
 💖 Passion
 Frontend Development
