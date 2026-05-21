@@ -2,9 +2,9 @@
 
 # Mohammad Shahbaaz 👨‍💻
 
-### Backend Developer • Problem Solver • Future System Architect
+### Frontend Developer • Problem Solver • Future System Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Developer;Backend+Engineer;Full+Stack+Builder;Learning+Never+Stops;Vegeta+Mindset+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Python+Developer;Frontend+Engineer;Full+Stack+Builder;Learning+Never+Stops;Vegeta+Mindset+%F0%9F%94%A5" />
 
 </div>
 
@@ -19,12 +19,11 @@ class MohammadShahbaaz:
         self.role = "Software Engineer"
         self.languages = ["Python", "JavaScript", "Java"]
         self.backend = ["FastAPI", "Flask", "Node.js", "Spring Boot"]
-        self.frontend = ["React.js"]
+        self.frontend = ["React.js","HTML","CSS"]
         self.databases = ["MongoDB", "MySQL"]
         self.current_focus = [
-            "Backend Engineering",
+            "Frontend Engineering",
             "DSA",
-            "System Design",
             "Scalable Applications"
         ]
 
@@ -47,7 +46,7 @@ class MohammadShahbaaz:
 # 🧠 Currently Grinding
 
 * Solving DSA problems daily
-* Building scalable backend systems
+* Building scalable systems
 * Learning system design fundamentals
 * Improving API architecture skills
 * Exploring AI-powered development workflows
